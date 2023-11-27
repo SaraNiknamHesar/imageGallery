@@ -1,0 +1,63 @@
+
+*,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    direction: rtl;
+}
+
+a {
+    text-decoration: none;
+}
+
+li,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.red {
+    background-color: #eb3b5a;
+}
+
+.green {
+    background-color: #26de81;
+}
+
+.blue {
+    background-color: #54a0ff;
+}
+
+.d-blue {
+    background-color: #3c40c6;
+}
+
+.yellow {
+    background-color: #feca57;
+}
+
+.pink {
+    background-color: #f78fb3;
+}
+
+.purple {
+    background-color: #5f27cd;
+}
+
+.gray {
+    background-color: #c8d6e5;
+}
+
+.d-gray {
+    background-color: #576574;
+}
+
+.black {
+    background-color: #222f3e;
+}
